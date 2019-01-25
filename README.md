@@ -12,7 +12,7 @@ Para instalar `rstan` :
 
 `install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)`
 
-En caso que no funcione, puedes consultar en el enlace debajo para intrucciones específicas para los distintos sistemas operativos: 
+Teniendo una version de R 3.4.0 o superior el código anterior deberiía ser suficiente.  En caso que no funcione, puedes consultar en el enlace debajo para intrucciones específicas para los distintos sistemas operativos: 
 
 <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>
 
