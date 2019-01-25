@@ -9,8 +9,9 @@ Bibliotecas de `R`
 - `library(rstan)`
 
 Para instalar `rstan` : 
+`install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)`
 
-- Guia inicial: <https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>
-- Windows: <https://github.com/stan-dev/rstan/wiki/Installing-RStan-on-Windows>
-- Mac o Linux: <https://github.com/stan-dev/rstan/wiki/Installing-RStan-on-Mac-or-Linux>
+En caso que no funcione, puedes consultar en el enlace debajo para intrucciones específicas para los distintos sistemas operativos: 
+
+<https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started>
 
