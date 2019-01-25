@@ -9,6 +9,7 @@ Bibliotecas de `R`
 - `library(rstan)`
 
 Para instalar `rstan` : 
+
 `install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)`
 
 En caso que no funcione, puedes consultar en el enlace debajo para intrucciones específicas para los distintos sistemas operativos: 
